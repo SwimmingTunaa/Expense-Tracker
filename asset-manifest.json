@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Find_me_a_gif_project/static/css/main.294236c8.css",
-    "main.js": "/Find_me_a_gif_project/static/js/main.04bdb5fb.js",
-    "index.html": "/Find_me_a_gif_project/index.html",
-    "main.294236c8.css.map": "/Find_me_a_gif_project/static/css/main.294236c8.css.map",
-    "main.04bdb5fb.js.map": "/Find_me_a_gif_project/static/js/main.04bdb5fb.js.map"
+    "main.css": "/expense-tracker/static/css/main.294236c8.css",
+    "main.js": "/expense-tracker/static/js/main.04bdb5fb.js",
+    "index.html": "/expense-tracker/index.html",
+    "main.294236c8.css.map": "/expense-tracker/static/css/main.294236c8.css.map",
+    "main.04bdb5fb.js.map": "/expense-tracker/static/js/main.04bdb5fb.js.map"
   },
   "entrypoints": [
     "static/css/main.294236c8.css",
