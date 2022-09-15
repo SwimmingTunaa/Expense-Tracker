@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "0.1.0",
-  "homepage": " https://swimmingtunaa.github.io/Find_me_a_gif_project/",
+  "homepage": "https://swimmingtunaa.github.io/expense-tracker/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
